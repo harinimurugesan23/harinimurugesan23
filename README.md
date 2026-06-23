@@ -20,7 +20,7 @@ Currently learning Cybersecurity and Networking
 
 Exploring MERN Stack, APIs, and Cloud Technologies
 
-NPTEL Elite Silver Certified 
+NPTEL Elite Silver Certified in Cloud Computing
 
 ---
 
@@ -39,7 +39,7 @@ NPTEL Elite Silver Certified
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,C,mysql,git,github,vscode,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,mysql,git,github,vscode,bootstrap,figma" />
 </p>
 
 ---
@@ -69,6 +69,9 @@ Features:
 - Alert Generation
 - Flask Dashboard
 
+🌐 Live Demo:
+https://smart-network-monitoring-and-traffic.onrender.com/
+
 ### Advanced Audio Steganography using LSB Technique
 
 Features:
@@ -82,15 +85,17 @@ Features:
 
 ## 💼 Internship Experience
 
-### Front-End Development Intern
-Cognifyz Technologies
+### Front-End Development Intern - Remote
+##### Feb 2025 - Mar 2025
+**Cognifyz Technologies**
 
 - Developed responsive user interfaces
 - Created reusable React components
 - Improved UI/UX design
 
-### Cybersecurity Intern
-Supraja Technologies
+### Ethical Hacking Intern - Hyderabad
+##### Jul 2025 - Oct 2025
+**Supraja Technologies**
 
 - Threat Analysis
 - Vulnerability Assessment
@@ -101,19 +106,17 @@ Supraja Technologies
 ## 📜 Certifications
 
 🏅 NPTEL Cloud Computing – Elite Silver
-
-🏅 NPTEL OOSD using Java Patterns – Elite Silver
-
+🏅 NPTEL OOSD using Java Patterns – Elite Silver and Top 5% Nationally
 🏅 Introduction to SAP – Great Learning
-
 🏅 Infosys Pragati Path to Future
+🏅 OWASP Top 10 Vulnerability Identification- TryHackMe
+🏅 Java Full Stack – Wipro TalentNext Certified
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinimurugesan23&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinimurugesan23&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -127,29 +130,13 @@ Supraja Technologies
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harinimurugesan23&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harinimurugesan23&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/harini-m-0700a6255
 
 Portfolio:
-YOUR_PORTFOLIO_LINK
+https://harinimurugesan23.github.io/harini-portfolio/
 
 Email:
-YOUR_EMAIL
+harinimurugesan23@gmail.com
