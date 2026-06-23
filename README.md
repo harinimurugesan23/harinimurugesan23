@@ -106,10 +106,15 @@ Features:
 ## 📜 Certifications
 
 🏅 NPTEL Cloud Computing – Elite Silver
+
 🏅 NPTEL OOSD using Java Patterns – Elite Silver and Top 5% Nationally
+
 🏅 Introduction to SAP – Great Learning
+
 🏅 Infosys Pragati Path to Future
+
 🏅 OWASP Top 10 Vulnerability Identification- TryHackMe
+
 🏅 Java Full Stack – Wipro TalentNext Certified
 
 ---
