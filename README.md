@@ -5,26 +5,22 @@ Computer Science Engineering Student | MERN Stack Developer | Cybersecurity Enth
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Cybersecurity+Learner;Building+Real+World+Projects;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Cybersecurity+Learner;Networking+Enthusiast;Building+Real+World+Projects;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 BE Computer Science Engineering Student
+BE Computer Science Engineering Student
 
-💻 Passionate about Full Stack Web Development
+Passionate about Full Stack Web Development
 
-🔐 Currently learning Cybersecurity
+Currently learning Cybersecurity and Networking
 
-🌱 Exploring MERN Stack, APIs, and Cloud Technologies
+Exploring MERN Stack, APIs, and Cloud Technologies
 
-🏆 Naukri CodeQuezt Rank 16 among 9000+ participants
-
-📚 NPTEL Elite Silver Certified
-
-📍 Tamil Nadu, India
+NPTEL Elite Silver Certified 
 
 ---
 
@@ -43,7 +39,7 @@ Computer Science Engineering Student | MERN Stack Developer | Cybersecurity Enth
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,mysql,git,github,vscode,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,C,mysql,git,github,vscode,bootstrap,figma" />
 </p>
 
 ---
