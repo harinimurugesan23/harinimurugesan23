@@ -127,14 +127,6 @@ Features:
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=harinimurugesan23&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 LinkedIn:
