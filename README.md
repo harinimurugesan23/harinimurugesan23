@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Harini M</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | MERN Stack Developer | Cybersecurity Enthusiast
+Computer Science Engineering Graduate | MERN Stack Developer | Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
