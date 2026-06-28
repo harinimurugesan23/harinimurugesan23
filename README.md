@@ -133,7 +133,7 @@ LinkedIn:
 https://www.linkedin.com/in/harini-m-0700a6255
 
 Portfolio:
-https://harinimurugesan23.github.io/harini-portfolio/
+https://harinimurugesan23.github.io/Portfolio/
 
 Email:
 harinimurugesan23@gmail.com
